@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@chakra-ui/react": "^2.6.1",
+    "next": "^13.4.2"
+  }
+}
